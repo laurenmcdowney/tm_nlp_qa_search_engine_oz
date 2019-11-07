@@ -125,7 +125,6 @@ pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
 pymorphy2-dicts-ru==2.4.404381.4453942
 PyMySQL==0.9.3
-pyodbc==4.0.27
 Pyomo==5.6.6
 pyOpenSSL==19.0.0
 pyparsing==2.4.2
