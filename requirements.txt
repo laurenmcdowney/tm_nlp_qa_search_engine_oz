@@ -138,8 +138,6 @@ python-dateutil==2.8.0
 pytz==2019.3
 PyUtilib==5.7.1
 pyviz-comms==0.7.2
-pywin32==223
-pywinpty==0.5.5
 PyYAML==5.1.2
 pyzmq==18.1.0
 QtAwesome==0.6.0
