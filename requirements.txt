@@ -119,7 +119,7 @@ pycparser==2.19
 pyct==0.4.6
 pydantic==0.32.2
 pyflakes==2.1.1
-Pygments==2.4.2
+Pygments==2.7.4
 pylint==2.4.3
 pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
