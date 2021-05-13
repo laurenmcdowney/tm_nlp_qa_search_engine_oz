@@ -117,7 +117,7 @@ pycodestyle==2.5.0
 pycosat==0.6.3
 pycparser==2.19
 pyct==0.4.6
-pydantic==0.32.2
+pydantic==1.6.2
 pyflakes==2.1.1
 Pygments==2.4.2
 pylint==2.4.3
