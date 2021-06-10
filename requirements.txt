@@ -33,7 +33,7 @@ dill==0.3.0
 docopt==0.6.2
 docutils==0.15.2
 et-xmlfile==1.0.1
-fastapi==0.38.1
+fastapi==0.65.2
 fastcache==1.1.0
 filelock==3.0.12
 flasgger==0.9.2
